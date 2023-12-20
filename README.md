@@ -41,12 +41,7 @@ Android Apk
 Currently, the app may show wrong object in certain cases due to limited availability in the TFLite model. The model and text will be present in the assets folder. The model has been limited to 1000 products. 
 
 For further enhancement, the model with larger and better data set can be used and colloborated with google ML Kit TensorFlow custom model and be detected in cloud, which will also reduce the app size.
-## Hire me
-**Want to hire me on your upcoming or ongoing flutter project? 
-Contact me on Fiverr**
 
-[![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
-)](https://www.fiverr.com/balajikannan03)
 
 
 
